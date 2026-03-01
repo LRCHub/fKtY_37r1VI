@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "This Feeling (Official Video)",
+  "base_artist": "The Chainsmokers",
+  "createdAt": "2026-03-01T04:28:04.997300Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "This Feeling",
+      "artist": "The Chainsmokers feat. Kelsea Ballerini",
+      "has_synced": true,
+      "path": "select/01_This_Feeling_The_Chainsmokers_feat._Kelsea_Ballerini.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "This Feeling",
+      "artist": "The Chainsmokers",
+      "has_synced": true,
+      "path": "select/02_This_Feeling_The_Chainsmokers.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "This Feeling",
+      "artist": "Sam Brown",
+      "has_synced": false,
+      "path": "select/03_This_Feeling_Sam_Brown.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Can't Fight This Feeling (Album Version)",
+      "artist": "Junior Caldera feat. Sophie Ellis-Bextor",
+      "has_synced": true,
+      "path": "select/04_Can't_Fight_This_Feeling_(Album_Version)_Junior_Caldera_feat._Sophie_Ellis-Bextor.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Don't Wanna Lose This Feeling - Extended Radio Version",
+      "artist": "Dannii Minogue",
+      "has_synced": false,
+      "path": "select/05_Don't_Wanna_Lose_This_Feeling_-_Extended_Radio_Version_Dannii_Minogue.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Don’t Wanna Lose This Feeling (extended radio version)",
+      "artist": "Dannii Minogue",
+      "has_synced": false,
+      "path": "select/06_Don’t_Wanna_Lose_This_Feeling_(extended_radio_version)_Dannii_Minogue.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Don't Let This Feeling Fade",
+      "artist": "Lindsey Stirling feat. Rivers Cuomo & Lecrae",
+      "has_synced": true,
+      "path": "select/07_Don't_Let_This_Feeling_Fade_Lindsey_Stirling_feat._Rivers_Cuomo_&_Lecrae.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Don’t Let This Feeling Fade",
+      "artist": "Lindsey Stirling",
+      "has_synced": true,
+      "path": "select/08_Don’t_Let_This_Feeling_Fade_Lindsey_Stirling.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "CAN'T STOP THIS FEELING",
+      "artist": "Matt Bianco",
+      "has_synced": false,
+      "path": "select/09_CAN'T_STOP_THIS_FEELING_Matt_Bianco.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Can't Fight This Feeling",
+      "artist": "REO Speedwagon",
+      "has_synced": true,
+      "path": "select/10_Can't_Fight_This_Feeling_REO_Speedwagon.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Can't Fight This Feeling",
+      "artist": "Reo Speedwagon",
+      "has_synced": true,
+      "path": "select/11_Can't_Fight_This_Feeling_Reo_Speedwagon.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Can't Shake This Feeling",
+      "artist": "Grum",
+      "has_synced": true,
+      "path": "select/12_Can't_Shake_This_Feeling_Grum.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Can't Help This Feeling",
+      "artist": "The Herbaliser",
+      "has_synced": true,
+      "path": "select/13_Can't_Help_This_Feeling_The_Herbaliser.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Can't Stop This Feeling I Got",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/14_Can't_Stop_This_Feeling_I_Got_Prince.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Can't Fight This Feeling",
+      "artist": "Sophie Ellis-Bextor",
+      "has_synced": false,
+      "path": "select/15_Can't_Fight_This_Feeling_Sophie_Ellis-Bextor.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Can't Fight This Feeling",
+      "artist": "Junior Caldera feat. Sophie Ellis-Bextor",
+      "has_synced": true,
+      "path": "select/16_Can't_Fight_This_Feeling_Junior_Caldera_feat._Sophie_Ellis-Bextor.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "This Feeling",
+      "artist": "The Chainsmokers",
+      "has_synced": false,
+      "path": "select/pl_01_This_Feeling_The_Chainsmokers.txt"
+    }
+  ]
+}
